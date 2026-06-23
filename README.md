@@ -39,13 +39,22 @@ Minha paixão pela tecnologia nasceu do desejo de entender como o mundo digital 
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estatísticas do GitHub 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ArthurBrg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<div align="center">
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBrg&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArthurBrg&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBrg&layout=compact&theme=tokyonight)
-
-</div>
+</p>
 

@@ -43,9 +43,9 @@ Minha paixão pela tecnologia nasceu do desejo de entender como o mundo digital 
 
 <div align="center">
 
-![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
+![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArthurBrg&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBrg&layout=compact&theme=tokyonight)
 
 </div>
 

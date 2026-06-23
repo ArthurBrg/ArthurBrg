@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Arthur
+# 👨‍💻 Arthur
 
 💻 **Desenvolvedor Web em início de carreira** e estudante do **Curso Técnico em Informática no IFMS - Campus Três Lagoas**.
 
@@ -28,8 +28,6 @@ Minha paixão pela tecnologia nasceu do desejo de entender como o mundo digital 
 - Claude AI
 - Desenvolvimento Front-end
 - Design de Interfaces (UI)
-- Criação de layouts responsivos
-- Componentização de interfaces
 
 ---
 

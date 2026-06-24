@@ -57,7 +57,9 @@ Minha paixão pela tecnologia nasceu do desejo de entender como o mundo digital 
   />
 
 </p>
-📫 Contato
+---
+
+## 📬 Contato
 
 <p align="left"> <a href="https://www.linkedin.com/in/arthur-correa-silva-borges-7298a224a/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> </a>
 
